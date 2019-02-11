@@ -1,2 +1,2 @@
 # words-opposite
-Words and opposite game for schools
+Words and opposite game for students
